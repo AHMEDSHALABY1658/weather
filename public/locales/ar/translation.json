@@ -1,0 +1,14 @@
+{
+    "min": "الصغري" ,
+    "max": "الكبري",
+    "clear sky":"سماء صافية",
+    "few clouds":"سحب قليلة",
+    "scattered clouds":"غيوم متفرقة",
+    "broken clouds":"غيوم متكسرة",
+    "shower rain":"زخات المطر",
+    "rain":"مطر",
+    "thunderstorm":"عاصفة رعدية",
+    "snow":"ثلج",
+    "mist":"شَبُّورَة",
+    "cairo":"القاهره"
+}
